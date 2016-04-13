@@ -1,0 +1,16 @@
+{
+  "name": "@aredridel/test-packaged-partial",
+  "version": "1.0.0",
+  "description": "A test partial",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/test-packaged-partial.git"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net> [npm, Inc]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/test-packaged-partial/issues"
+  },
+  "homepage": "https://github.com/aredridel/test-packaged-partial#readme"
+}
